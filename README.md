@@ -11,10 +11,14 @@ go run enum.go <domain>
 ```
 
 
-## Tips
-* for learnig go language you can use [go.dev](https://go.dev/tour/welcome/1)
-* for develop this module use 
+## learning
+for learnig go language you can use 
+* [go.dev](https://go.dev/tour/welcome/1)
+* [linkedin](https://www.linkedin.com/learning/learning-go-8399317/)
 
+
+## develop tools
+for develop this module use 
 ```shell
 mkdir subdomain-enumeration
 cd subdomain-enumeration
