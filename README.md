@@ -9,3 +9,7 @@ after find domain we can call any tools like httpx,...
 ```go
 go run enum.go <domain>
 ```
+
+
+## Tips
+for learnig go language you can use [go.dev](https://go.dev/tour/welcome/1)
